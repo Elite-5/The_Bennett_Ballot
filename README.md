@@ -1,2 +1,2 @@
-# The_Bennett_Ballot
+# The Bennett Ballot
 The project aims to provide customers a secure, efficient and user friendly platform to perform voting among masses and select suitable solutions accepted by majority preventing conflicts while voting.  Its objective is to bring fairness and a new method for voting. The project aims to provide customers a secure, efficient and user friendly platform to perform voting among masses and select suitable solutions accepted by majority preventing conflicts while voting.  Its objective is to bring fairness and a new method for voting. 
